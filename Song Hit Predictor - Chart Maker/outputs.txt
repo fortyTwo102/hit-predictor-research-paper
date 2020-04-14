@@ -1,0 +1,5 @@
+1 - Bar Chart of at least 4 model's accuracy
+2 - same for f1_scores
+3 - Rejected features every decade
+4 - If they rejected ones verify the feature histogram 
+5 - heatmaps
