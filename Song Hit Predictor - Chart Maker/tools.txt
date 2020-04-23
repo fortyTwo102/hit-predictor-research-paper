@@ -1,6 +1,6 @@
 - logging
-- dummy features for discrete
-- Standard Scaler
+- dummy features for discrete done
+- Standard Scaler done
 - Hyper-parameter tuning
 - SelectKBest
-- KFold Cross Val
+- KFold Cross Val done
